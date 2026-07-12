@@ -270,9 +270,12 @@ mindmap
   <img src="https://streak-stats.demolab.com?user=balvantvishwakarma&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00d4aa&ring=00d4aa&fire=ff6b6b&currStreakLabel=00d4aa&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" alt="GitHub Streak" width="65%" />
 </p>
 
-<!-- GitHub Trophies -->
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=balvantvishwakarma&theme=onestar&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" width="90%" />
+<!-- Trophies (Badges instead) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆-Total%20Stars-0-FFB800?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📊-Total%20Commits-87-00D4AA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔥-Current%20Streak-2%20days-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⭐-Longest%20Streak-2%20days-FFB800?style=for-the-badge" />
 </p>
 
 <!-- Contribution Graph -->
