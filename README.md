@@ -252,7 +252,11 @@ mindmap
 | 10 | [**devops-interview-lab**](https://github.com/balvantvishwakarma/devops-interview-lab) | Real-world troubleshooting scenarios & interview prep | `K8s` `Docker` `Linux` |
 
 </div>
+---
+## 📈 GitHub Stats
 
+![GitHub Stats](github-metrics.svg)
+---
 ---
 
 ## 📈 GitHub Analytics
